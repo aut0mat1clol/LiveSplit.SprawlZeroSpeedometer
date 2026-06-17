@@ -6,7 +6,6 @@ A standalone [LiveSplit](https://livesplit.org/) component that displays the pla
 
 - Displays **2D speed**, **3D speed**, and/or **Z (vertical) speed** simultaneously.
 - No ASL required.
-- Auto-detects loading screens and hides bogus values.
 - Font and colors are inherited from LiveSplit's layout settings.
 
 ## Download & Install
