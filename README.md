@@ -18,7 +18,7 @@ A standalone [LiveSplit](https://livesplit.org/) component that displays the pla
    ```
 3. Restart LiveSplit.
 4. Right-click LiveSplit → **Edit Layout** → **Add** → **Information** → **SPRAWL zero**.
-5. Right-click the component → **Settings** to choose which speed values to show.
+5. Double-click the component → **Settings** to choose which speed values to show.
 
 ## Settings
 
