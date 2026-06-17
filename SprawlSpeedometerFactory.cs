@@ -16,9 +16,9 @@ namespace LiveSplit.SprawlSpeedometer
 
         public string UpdateName => ComponentName;
 
-        public string UpdateURL => "";
+        public string UpdateURL => "https://raw.githubusercontent.com/aut0mat1clol/LiveSplit.SprawlZeroSpeedometer/master/";
 
-        public string XMLURL => "";
+        public string XMLURL => "https://raw.githubusercontent.com/aut0mat1clol/LiveSplit.SprawlZeroSpeedometer/master/Components/update.xml";
 
         public Version Version => Version.Parse("1.0.0");
     }
