@@ -14,7 +14,7 @@ A standalone [LiveSplit](https://livesplit.org/) component that displays the pla
 
 ## Download & Install
 
-1. Download the latest `LiveSplit.SprawlSpeedometer.dll` from [Releases](../../releases).
+1. Download the latest `LiveSplit.SprawlSpeedometer.dll` from [Components](https://github.com/aut0mat1clol/LiveSplit.SprawlZeroSpeedometer/tree/master/Components) folder.
 2. Copy it into your LiveSplit folder:
    ```
    LiveSplit/Components/LiveSplit.SprawlSpeedometer.dll
