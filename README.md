@@ -10,10 +10,10 @@ A standalone [LiveSplit](https://livesplit.org/) component that displays the pla
 
 ## Download & Install
 
-1. Download the latest `LiveSplit.SprawlSpeedometer.dll` from the [Components](https://github.com/aut0mat1clol/LiveSplit.SprawlZeroSpeedometer/tree/master/Components) folder.
+1. Download the latest `LiveSplit.SprawlZeroSpeedometer.dll` from the [Components](https://github.com/aut0mat1clol/LiveSplit.SprawlZeroSpeedometer/tree/master/Components) folder.
 2. Copy it into your LiveSplit folder:
    ```
-   LiveSplit/Components/LiveSplit.SprawlSpeedometer.dll
+   LiveSplit/Components/LiveSplit.SprawlZeroSpeedometer.dll
    ```
 3. Restart LiveSplit.
 4. Right-click LiveSplit → **Edit Layout** → **Add** → **Information** → **SPRAWL zero**.
