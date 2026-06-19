@@ -1,4 +1,4 @@
-># SPRAWL zero Speedometer for LiveSplit
+# SPRAWL zero Speedometer for LiveSplit
 
 A standalone [LiveSplit](https://livesplit.org/) component that displays the player velocity in **SPRAWL zero** (`Silas-Win64-Test.exe`).
 
